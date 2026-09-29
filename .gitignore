@@ -1,0 +1,12 @@
+# Godot caches and temporary files (docs/ must stay committed for GitHub Pages)
+.godot/
+.import/
+*.tmp
+*.log
+*.bak
+export_credentials.cfg
+builds/
+build/
+.DS_Store
+Thumbs.db
+desktop.ini
