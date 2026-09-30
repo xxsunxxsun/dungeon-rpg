@@ -49,6 +49,20 @@ These are read from the game's actual input settings (`scripts/managers/input_bi
 
 Fullscreen: Esc → Settings → Fullscreen. The game never switches to fullscreen on its own when it starts.
 
+### Phone / tablet (touch)
+
+Play in **landscape**. On-screen controls appear automatically on touchscreens:
+
+| Control | Where |
+| --- | --- |
+| Move | Joystick: drag anywhere on the left side |
+| Attack | Big 攻擊 button, bottom right (hold to keep attacking) |
+| Interact / Potion | E 互動 and Q 藥水 buttons |
+| Skills | Tap the skill slots (bottom right); hold F to charge the ground slam |
+| Menus | 背包 / 天賦 / 角色 / 地圖 / 選單 buttons, top right |
+
+Menus, shop, forge and GARY's questions are tapped directly. The first load downloads about 72 MB (cached afterwards).
+
 ## Versions
 
 - **Windows**: `Dungeon RPG V2.0`, full-quality settings.
